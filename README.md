@@ -1,6 +1,7 @@
 # Age Estimation and Face Recognition Project
 
-This project captures images from a camera and performs face detection to estimate the age of detected faces. Face recognition is achieved using OpenCV, and age estimation is done using Tensorflow and Keras.
+This project captures images from a camera and performs face detection to estimate the age of detected faces. Face recognition is achieved using OpenCV, and age estimation is done using TensorFlow and Keras.
+Links for models and dataset will be added in the near future.
 
 ## Requirements
 
